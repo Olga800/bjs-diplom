@@ -1,5 +1,4 @@
-"use strict";
-
+'use strict';
 
 const newUser = new UserForm ();
 newUser.loginFormCallback = function (data) {
